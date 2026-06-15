@@ -2,7 +2,7 @@
 
 > *As beautiful as a shell*
 
-A custom Unix shell built from scratch in C, developed as part of the 42 school curriculum. Minishell replicates core bash behaviour — from input parsing and tokenization all the way through execution — giving a ground-up understanding of how shells actually work.
+A custom Unix shell built from scratch in C, developed as part of the 42 school curriculum. Minishell replicates core bash behaviour from input parsing and tokenization all the way through execution, giving a ground-up understanding of how shells actually work.
 
 ---
 
@@ -161,4 +161,4 @@ Building a shell from scratch is one of the most comprehensive systems programmi
 
 ## 42 school
 
-This project is part of the [42](https://42.fr) common core curriculum (Rank 4). 42 is a peer-to-peer programming school with no teachers or lectures — everything is project-based and evaluated by other students.
+This project is part of the [42](https://42.fr) common core curriculum (Rank 4). 42 is a peer-to-peer programming school with no teachers or lectures everything is project-based and evaluated by other students.
